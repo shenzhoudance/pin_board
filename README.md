@@ -60,3 +60,12 @@ git add .
 git commit -m "Add Pin model RMVC"
 git push origin model-Pin
 ```
+
+rails generate simple_form:install --bootstrap
+
+用简单的联系我们表单创建一个Rails 4网站
+http://l4u.github.io/articles/create-a-rails-4-site-with-contact-us-form/
+RailsのHTMLテンプレートエンジン Haml入門
+http://ruby-rails.hatenadiary.com/entry/20141001/1412097051
+Rails的错误解决方案[未定义的局部变量或方法`f'for]
+https://teratail.com/questions/107905
