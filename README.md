@@ -1,4 +1,4 @@
-# 才华横溢 Ruby on Rails 案例教学 4
+# [才华横溢 Ruby on Rails 案例教学 4]
 
 第一部分：准备动作
 
